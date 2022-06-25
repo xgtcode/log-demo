@@ -1,4 +1,4 @@
-module practice-logger
+module github.com/xgtcode/log-demo.git
 
 go 1.16
 

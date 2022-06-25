@@ -1,9 +1,9 @@
 package main
 
 import (
+	cuslog "github.com/xgtcode/log-demo.git"
 	"log"
 	"os"
-	cuslog "practice-logger"
 )
 
 func main() {
