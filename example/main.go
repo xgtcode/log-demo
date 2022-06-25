@@ -1,7 +1,7 @@
 package main
 
 import (
-	cuslog "github.com/xgtcode/log-demo.git"
+	cuslog "github.com/xgtcode/log-demo"
 	"log"
 	"os"
 )

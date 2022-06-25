@@ -1,4 +1,4 @@
-module github.com/xgtcode/log-demo.git
+module github.com/xgtcode/log-demo
 
 go 1.16
 
